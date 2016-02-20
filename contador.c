@@ -1,9 +1,10 @@
- #include<stdio.h>
+#include<stdio.h>
 
 int main()
 {
  printf("contador de 1-5\n");
 
+ int x=5+5;
  int i=1;
 
  for(i;i<=5;i++)
